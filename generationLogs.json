@@ -1,0 +1,112 @@
+[
+  {
+    "Message": "Data object with id '957af93d-510b-47fd-b625-7c90e063f54d' was not found in data source with id '08dcf506-2fd5-4689-8aa5-637719257899'.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6995863Z"
+  },
+  {
+    "Message": "Component with id '56455c47-a000-46f4-b329-e01881ba12e7' has DataBoundIterator pointing to missing data source '08dcf506-2fd5-4689-8aa5-637719257899', or missing data object '957af93d-510b-47fd-b625-7c90e063f54d'. Iterator is not generated!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "56455c47-a000-46f4-b329-e01881ba12e7",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6995913Z"
+  },
+  {
+    "Message": "Data object with id 'fa158425-12be-4880-8b79-ae5903fcbac1' was not found in data source with id '08dcf506-2fd5-4689-8aa5-637719257899'.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6995975Z"
+  },
+  {
+    "Message": "Component with id '1b7135d7-3c18-4fcd-bc05-1dcb9c9bc3f8' has DataBoundIterator pointing to missing data source '08dcf506-2fd5-4689-8aa5-637719257899', or missing data object 'fa158425-12be-4880-8b79-ae5903fcbac1'. Iterator is not generated!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "1b7135d7-3c18-4fcd-bc05-1dcb9c9bc3f8",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.699598Z"
+  },
+  {
+    "Message": "Data object with id '5b264d0b-733b-4dbf-9608-d19cacfa1fef' was not found in data source with id '08dcf506-2fd5-4689-8aa5-637719257899'.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.699609Z"
+  },
+  {
+    "Message": "Component with id '6bda3155-b62f-4d0e-8ef0-ebef69016c2c' has DataBoundProperty pointing to missing data source '08dcf506-2fd5-4689-8aa5-637719257899', or missing data object '5b264d0b-733b-4dbf-9608-d19cacfa1fef'. Property is not generated!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "6bda3155-b62f-4d0e-8ef0-ebef69016c2c",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6996095Z"
+  },
+  {
+    "Message": "Data object with id 'fa158425-12be-4880-8b79-ae5903fcbac1' was not found in data source with id '08dcf506-2fd5-4689-8aa5-637719257899'.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6996261Z"
+  },
+  {
+    "Message": "Component with id 'ed5abcfe-2ca6-4bd7-91b9-382f2cc4d6cf' has DataBoundProperty pointing to missing data source '08dcf506-2fd5-4689-8aa5-637719257899', or missing data object 'fa158425-12be-4880-8b79-ae5903fcbac1'. Property is not generated!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "ed5abcfe-2ca6-4bd7-91b9-382f2cc4d6cf",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.6996265Z"
+  },
+  {
+    "Message": "No iterator found in context for bound property 'label'. Property not generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Iterator",
+    "Context": {
+      "ComponentId": "56455c47-a000-46f4-b329-e01881ba12e7",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.950458Z"
+  },
+  {
+    "Message": "No iterator found in context for bound property 'label'. Property not generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Iterator",
+    "Context": {
+      "ComponentId": "1b7135d7-3c18-4fcd-bc05-1dcb9c9bc3f8",
+      "ViewId": "e9ff878d-8e72-42d6-9362-ba5a639af26b"
+    },
+    "UTCTimestamp": "2026-02-11T08:18:20.9504905Z"
+  }
+]
